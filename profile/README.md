@@ -19,4 +19,10 @@
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://dash.downtownroleplay.com.br)
 [![Version](https://img.shields.io/badge/Version-2.5.0-informational)](CHANGELOG.md)
 
+
+---
+
+**Complete management system for REDM/FIVEM servers with Discord authentication.**
+
+
 </div>
