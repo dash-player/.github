@@ -2,7 +2,7 @@
 
 <br/>
 
-#Dash Player
+# Dash Player
 
 **The panel that belongs to the player.**  
 The infrastructure that separates ordinary servers from top-tier ones.
